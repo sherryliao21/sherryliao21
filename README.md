@@ -8,7 +8,7 @@ I've always been fascinated by how much the web can do and how websites are actu
 🔭  I'm currently working on ...
 -  Group projects with my friends: [Simple Twitter](https://github.com/sherryliao21/simple-twitter-api), [Blanche | a fashion ecommece website](https://github.com/sherryliao21/ecommerce-site) 🛍️
 -  Small personal project: A Naruto themed-[expense tracker](https://github.com/sherryliao21/expense-tracker-tailwindcss)! 🥷
--  Another personal challenge to learn & built a split-stack Ramen Forum with Node.js/Express + React.js, Ramen Sugoi (Coming soon...) 🍜 
+-  A personal challenge to learn & built a split-stack Ramen Forum in 2 weeks with Node.js/Express + React.js, Ramen Sugoi (Coming soon...) 🍜 
 -  A study group for full-stack (focusing more on back-end) web dev interviews [interview prep study group](https://github.com/sherryliao21/interview-prep-study-group)
 </br>
 </br>
