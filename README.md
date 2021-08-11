@@ -6,14 +6,15 @@ I've always been fascinated by how much the web can do and how websites are actu
 </br>
 </br>
 🔭  I'm currently working on ...
--  Group projects with my friends: [simple twitter](https://github.com/sherryliao21/simple-twitter-api), [ecommece site](https://github.com/sherryliao21/ecommerce-site) 🛍️
--  Small personal project: A Naruto themed-[expense tracker](https://github.com/sherryliao21/expense-tracker-tailwindcss)! :frog:
+-  Group projects with my friends: [Simple Twitter](https://github.com/sherryliao21/simple-twitter-api), [Blanche | a fashion ecommece website](https://github.com/sherryliao21/ecommerce-site) 🛍️
+-  Small personal project: A Naruto themed-[expense tracker](https://github.com/sherryliao21/expense-tracker-tailwindcss)! 🥷
+-  Another personal challenge to learn & built a split-stack Ramen Forum with Node.js/Express + React.js, Ramen Sugoi (Coming soon...) 🍜 
 -  A study group for full-stack (focusing more on back-end) web dev interviews [interview prep study group](https://github.com/sherryliao21/interview-prep-study-group)
 </br>
 </br>
 
 🌱  My tech stack:
--  Frontend: HTML5, CSS3, JavaScript(ES6), Bootstrap, RWD design
+-  Frontend: HTML5, CSS3, JavaScript(ES6), Bootstrap, RWD design, TailwindCSS, Learning React!! 
 -  Backend: Node.js, Express.js, Handlebars, MongoDB/Mongoose, MySQL/Sequelize, MVC framework
 -  Other: RESTful API, Swagger API documentation, Heroku, POSTMAN
 -  Collaboration Tools: Git & GitHub, Trello, Slack
