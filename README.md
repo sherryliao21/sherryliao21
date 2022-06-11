@@ -6,6 +6,7 @@ I'm Sherry, a Node.js backend developer based in Taipei, Taiwan. I love programm
 🔭  Recent projects
 -  [Ramen Sugoi](https://github.com/sherryliao21/ramen-sugoi-backend) : Trying to build a fullstack ramen website using Express x React!
 </br>
+
 🌱  My tech stack:
 -  Programming Languages: JavaScript, Python
 -  Frontend: HTML5, CSS3, JavaScript(ES6), Bootstrap, React
@@ -15,10 +16,11 @@ I'm Sherry, a Node.js backend developer based in Taipei, Taiwan. I love programm
 -  Collaboration Tools: Git, GitHub, Gitlab
 </br>
 </br>
+
 📫  How to reach me: 
--  LinkedIn: [Sherry Liao](https://www.linkedin.com/in/sherrycliao/)
--  Medium blog: [@icaughtacode](https://icaughtacode.medium.com/)  (I write about my projects & learning reflections, and leetcode)
--  Email: sherry.c.liao@gmail.com
+-  LinkedIn: [Sherry Liao](https://www.linkedin.com/in/sherrycliao/) </br>
+-  Medium blog: [@icaughtacode](https://icaughtacode.medium.com/)  (I write about my projects & learning reflections, and leetcode)</br>
+-  Email: sherry.c.liao@gmail.com</br>
 </br>
 </br>
 💬  I'm ACTIVELY looking for job opportunities, feel free to chat :)
