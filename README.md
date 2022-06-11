@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sherry, a Node.js backend developer based in Taipei! I love programming, cats 🐈‍, and beer 🍺   </br> 
+I'm Sherry, a Node.js backend developer based in Taipei, Taiwan. I love programming, cats 🐈‍, and beer 🍺 🙃 </br> 
 </br>
 </br>
 🔭  Recent projects
