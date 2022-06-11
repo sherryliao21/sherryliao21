@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-I'm Sherry, a Node.js backend developer based in Taipei! :beers: </br>
-</br>
-I love programming and cats 🐈‍⬛  </br> 
+I'm Sherry, a Node.js backend developer based in Taipei! I love programming, cats 🐈‍, and beer 🍺   </br> 
 </br>
 </br>
 🔭  Recent projects
 -  [Ramen Sugoi](https://github.com/sherryliao21/ramen-sugoi-backend) : Trying to build a fullstack ramen website using Express x React!
-</br>
 </br>
 🌱  My tech stack:
 -  Programming Languages: JavaScript, Python
