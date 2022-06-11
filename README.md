@@ -4,7 +4,7 @@ I'm Sherry, a Node.js backend developer based in Taipei, Taiwan. I love programm
 </br>
 </br>
 🔭  Recent projects
--  [Ramen Sugoi](https://github.com/sherryliao21/ramen-sugoi-backend) : Trying to build a fullstack ramen website using Express x React 🍜
+-  (Building...) [Ramen Sugoi](https://github.com/sherryliao21/ramen-sugoi-backend) : Trying to build a fullstack ramen website using Express x React 🍜
 </br>
 
 🌱  My tech stack:
